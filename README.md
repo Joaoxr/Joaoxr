@@ -1,5 +1,5 @@
 Oi 👋 Meu nome é João Pedro da Silva Santos
-Sou um jovem de 16 anos, moro na capital de São Paulo e estou estudando na área de progamação a 6 meses e aprendi sobre banco de dados, sobre java script, node e html.
+Sou um jovem de 17 anos, moro na capital de São Paulo e estou estudando na área de progamação a 6 meses e aprendi sobre banco de dados, sobre java script, node e html.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [JPSANTOSS100@GMAIL.COM](mailto:JPSANTOSS100@GMAIL.COM)
